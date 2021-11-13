@@ -1,0 +1,29 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-addons",
+    "name": "mobilebrowsercolor",
+    "version": "1.0",
+    "license": "mit",
+    "category": "other",
+    "description": {
+        "name": "Mobile Browser Color",
+        "tagline": "Module changes color of browser search tab on mobile devices",
+        "long": "Module changes color of browser search tab on mobile devices",
+        "features": [
+            "Client Area: Module changes color of browser search tab on mobile devices"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "docs_url": "https:\/\/www.github.com\/farzadkhaledi\/mobilebrowsercolor",
+        "learn_more": "https:\/\/www.github.com\/farzadkhaledi\/mobilebrowsercolor"
+    },
+    "authors": [
+        {
+            "name": "Farzad Khaledi",
+            "homepage": "https:\/\/www.khaledi.website\/"
+        }
+    ]
+}
